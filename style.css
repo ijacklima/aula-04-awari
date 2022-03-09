@@ -1,0 +1,8 @@
+.cardx {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+}
+
+.buttonDefault {
+}
